@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8733d3dc-0d02-433d-8543-a08d1e2ed555" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/LotteryTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/objects/RecordExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/objects/RecordUsageExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/TextProcessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +44,7 @@
       <recent name="objects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LotteryTicket">
+  <component name="RunManager" selected="Application.TextProcessor">
     <configuration name="HomeAreaCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="objects.HomeAreaCalculator" />
       <module name="java_course_1" />
@@ -66,19 +64,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="objects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InstantCreditCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.InstantCreditCheck" />
-      <module name="java_course_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TextProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.TextProcessor" />
+      <module name="java_course_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TextProcessor" />
         <item itemvalue="Application.LotteryTicket" />
         <item itemvalue="Application.RecordUsageExample" />
         <item itemvalue="Application.HomeAreaCalculatorRedo" />
         <item itemvalue="Application.HomeAreaCalculator" />
-        <item itemvalue="Application.InstantCreditCheck" />
       </list>
     </recent_temporary>
   </component>
