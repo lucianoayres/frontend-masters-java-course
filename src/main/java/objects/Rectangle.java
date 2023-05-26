@@ -1,9 +1,9 @@
 package objects;
 
 public class Rectangle {
-    private double length;
-    private double width;
-    private int sides = 4;
+    protected double length;
+    protected double width;
+    protected int sides = 4;
 
     public Rectangle() {
         setLength(0);
@@ -13,6 +13,10 @@ public class Rectangle {
     public Rectangle(double width, double length) {
         setWidth(width);
         setLength(length);
+    }
+
+    public void print() {
+        System.out.println("I am a Rectangle");
     }
 
     public double calculatePerimeter() {
