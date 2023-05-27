@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8733d3dc-0d02-433d-8543-a08d1e2ed555" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstraction/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstraction/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstraction/ShapeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structures/CollectionsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inherintance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inherintance/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inherintance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inherintance/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/StreamOperations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data_structures/CollectionsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_structures/CollectionsDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,38 +34,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="objects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectionsDemo">
+  <component name="RunManager" selected="Application.StreamOperations">
     <configuration name="CollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="data_structures.CollectionsDemo" />
       <module name="java_course_1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="data_structures.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InheritanceTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inherintance.InheritanceTester" />
-      <module name="java_course_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inherintance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.StreamOperations" />
+      <module name="java_course_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inherintance.Zoo" />
       <module name="java_course_1" />
@@ -123,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamOperations" />
         <item itemvalue="Application.CollectionsDemo" />
         <item itemvalue="Application.Library" />
         <item itemvalue="Application.ShapeTester" />
         <item itemvalue="Application.Zoo" />
-        <item itemvalue="Application.InheritanceTester" />
       </list>
     </recent_temporary>
   </component>
