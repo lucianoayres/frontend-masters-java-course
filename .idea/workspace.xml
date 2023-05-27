@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8733d3dc-0d02-433d-8543-a08d1e2ed555" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/inherintance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inherintance/InheritanceTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inherintance/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inherintance/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/abstraction/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/abstraction/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/abstraction/ShapeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structures/CollectionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inherintance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inherintance/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inherintance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inherintance/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objects/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/objects/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Record" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,13 +55,13 @@
       <recent name="objects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InheritanceTester">
-    <configuration name="HomeAreaCalculatorRedo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objects.HomeAreaCalculatorRedo" />
+  <component name="RunManager" selected="Application.CollectionsDemo">
+    <configuration name="CollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structures.CollectionsDemo" />
       <module name="java_course_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objects.*" />
+          <option name="PATTERN" value="data_structures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LotteryTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.LotteryTicket" />
+    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces.Library" />
       <module name="java_course_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecordUsageExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objects.RecordUsageExample" />
+    <configuration name="ShapeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstraction.ShapeTester" />
       <module name="java_course_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objects.*" />
+          <option name="PATTERN" value="abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TextProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.TextProcessor" />
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inherintance.Zoo" />
       <module name="java_course_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.*" />
+          <option name="PATTERN" value="inherintance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionsDemo" />
+        <item itemvalue="Application.Library" />
+        <item itemvalue="Application.ShapeTester" />
+        <item itemvalue="Application.Zoo" />
         <item itemvalue="Application.InheritanceTester" />
-        <item itemvalue="Application.TextProcessor" />
-        <item itemvalue="Application.LotteryTicket" />
-        <item itemvalue="Application.RecordUsageExample" />
-        <item itemvalue="Application.HomeAreaCalculatorRedo" />
       </list>
     </recent_temporary>
   </component>
