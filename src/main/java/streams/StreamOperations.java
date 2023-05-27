@@ -19,7 +19,25 @@ public class StreamOperations {
         //filterDemo();
         //mapDemo();
         //reduceDemo();
-        intReduceDemo();
+        //intReduceDemo();
+        //collectDemo();
+        multiOperationDemo();
+    }
+
+    private static void multiOperationDemo() {
+        veggies.stream()
+                .sorted()
+                .filter(v->v.startsWith("c"))
+                .map(String::toUpperCase)
+                .map(v->v.transform(w->"yummy " + w))
+                .forEach(System.out::println);
+    }
+
+    private static void collectDemo() {
+        // same as
+        // List veggiesEndingInS = veggies.stream().filter(v -> v.endsWith("s")).collect(Collectors.toList());
+        List<String> veggiesEndingInS = veggies.stream().filter(v -> v.endsWith("s")).toList();
+        veggiesEndingInS.forEach(System.out::println);
     }
 
     private static void intReduceDemo() {

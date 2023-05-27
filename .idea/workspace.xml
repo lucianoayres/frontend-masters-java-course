@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8733d3dc-0d02-433d-8543-a08d1e2ed555" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/StreamOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/MultipleExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/NegativeInputException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/ThrowingExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/TryWithResources.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structures/CollectionsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_structures/CollectionsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/StreamOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/StreamOperations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +51,7 @@
       <recent name="objects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamOperations">
+  <component name="RunManager" selected="Application.TryWithResources">
     <configuration name="CollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="data_structures.CollectionsDemo" />
       <module name="java_course_1" />
@@ -60,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaces.Library" />
+    <configuration name="ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.ExceptionHandling" />
       <module name="java_course_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaces.*" />
+          <option name="PATTERN" value="exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstraction.ShapeTester" />
+    <configuration name="MultipleExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.MultipleExceptionHandling" />
       <module name="java_course_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstraction.*" />
+          <option name="PATTERN" value="exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inherintance.Zoo" />
+    <configuration name="TryWithResources" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.TryWithResources" />
       <module name="java_course_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inherintance.*" />
+          <option name="PATTERN" value="exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TryWithResources" />
+        <item itemvalue="Application.MultipleExceptionHandling" />
+        <item itemvalue="Application.ExceptionHandling" />
         <item itemvalue="Application.StreamOperations" />
         <item itemvalue="Application.CollectionsDemo" />
-        <item itemvalue="Application.Library" />
-        <item itemvalue="Application.ShapeTester" />
-        <item itemvalue="Application.Zoo" />
       </list>
     </recent_temporary>
   </component>
